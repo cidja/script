@@ -1,0 +1,4 @@
+Ceci sont tous les scripts pour genmon qui permet d'afficher des
+notifications sous xfce
+
+source: https://github.com/aaaaadrien/perso-gnome-extension/tree/main/perso%40aaaaadrien.github.com/scripts
